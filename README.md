@@ -5,3 +5,4 @@ Visualisasi data ini menggunakan salah satu modul yang populer di python yaitu b
 
 1. Bokeh - Data Visualisasi
 2. Bokeh - Scatter Plots
+3. Bokeh - Line Plots
